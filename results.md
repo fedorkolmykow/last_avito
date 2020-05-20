@@ -12,4 +12,6 @@ test_catch.py ....                                                       [100%]
 Process finished with exit code 0
                                                                                                                                                     [100%]
 ```
-![Скриншот результата работы ProfileC](./icicle.jpg)
+![Скриншот результата работы ProfileC график сосулька](./icicle.jpg)
+![Скриншот результата работы ProfileC детали графика сосулька](./icicle_details.jpg)
+![Скриншот результата работы ProfileC график солнышко](./sunburst.jpg)
